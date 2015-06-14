@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="hero group" style="background: url('{{ page.headimage | prepend: site.baseurl }}'); background-size: cover; background-position: center;">
+    <div class="grid">
+      <div class="grid__col grid__col--6-of-12">
+        <div class="ind-name {% if page.head-background %}{{ page.head-background }}{% endif %}">
+          <h1>{{ page.title }}</h1>
+        </div>
+      </div>
+      <div class="grid__col grid__col--4-of-12 grid__col--push-2-of-12">
+        <div class="ind-detail group">
+          <ul>
+          <li><span>Address</span><br>{{ page.address }}</li>
+            <li><span>Opening Times</span><br>8:00-20:00</li>
+            <li><span>Telephone</span><br>{{ page.telephone }}</li>
+            <li><span>District</span><br>{{ page.location }}</li>
+          </ul>
+        </div>
+        <div class="disc-btn">
+          <a class="disc-btn--element" href="{{ page.website }}" target="_blank">Website</a>
+        </div>
+      </div>
+    </div>
+</div>
+
+  <!-- otc - main content
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <div class="grid">
+    <div class="grid__col grid__col--8-of-12 dropLetter">
+      {{ content }}
+    </div>
+    <div class="grid__col grid__col--4-of-12">
+      <ul class="ind-images group">
+        {% for thumb in page.images %}
+        <li><a class="fancybox" rel="group" href="{{ thumb }}" | prepend: site.baseurl }}"><img src="{{ thumb }}" | prepend: site.baseurl }}" alt=""></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>

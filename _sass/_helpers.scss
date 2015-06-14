@@ -1,0 +1,20 @@
+@mixin navigation-list {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    margin-right: 0;
+    overflow:hidden;
+    > li{
+        display:inline-block;
+        margin-right: 15px;
+        &:last-child{
+            margin-right:0px;
+        }
+    }
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}

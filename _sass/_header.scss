@@ -1,0 +1,67 @@
+#header {
+	background-color: #E74C3C;
+	padding: 12px 0;
+	border-top: 5px solid #FFD600;
+
+	a {
+		text-decoration: none;
+		color: #fff;
+	}
+}
+
+.disc-logo {
+	display: inline-block;
+	font-family: "effra",sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: #ffffff;
+}
+
+.main-navigation {
+	float: right;
+}
+
+.main-navigation ul {
+	@include navigation-list;
+	font-family: "effra",sans-serif;
+	font-weight: 300;
+	a {
+		text-decoration: none;
+		color: #ffffff;
+	}
+
+	li:hover {
+		border-bottom: 2px solid #FFD600;
+	}
+}
+
+.hero {
+	min-height: 300px;
+	// background: url('../img/krucza23.jpg');
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	padding: 20px 0;
+}
+
+.homepage {
+	text-align: center;
+
+	.headline {
+		display: inline-block;
+		color: #fff;
+		border: 2px solid #fff;
+		padding: 10px;
+		margin: 50px 0 0 0;
+		background: rgba(0, 0, 0, .4);
+  		
+  		@media screen and (max-width: $medium) {
+		font-size: 1.2em;
+  		}
+  		@media screen and (max-width: $small) {
+		font-size: 1em;
+  		}
+
+	}
+
+}
