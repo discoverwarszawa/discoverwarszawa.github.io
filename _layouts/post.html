@@ -35,7 +35,7 @@ layout: default
     <div class="grid__col grid__col--4-of-12">
       <ul class="ind-images group">
         {% for thumb in page.images %}
-        <li><a class="fancybox" rel="group" href="{{ thumb }}" | prepend: site.baseurl }}"><img src="{{ thumb }}" | prepend: site.baseurl }}" alt=""></a></li>
+        <li><a class="fancybox" rel="group" href="{{ thumb | prepend: site.baseurl }}"><img src="{{ thumb | prepend: site.baseurl }}" alt=""></a></li>
         {% endfor %}
       </ul>
     </div>

@@ -1,11 +1,24 @@
+
+
 #footer {
-	background-color: #2C3E50;
-	padding: 30px 0;
-	color: #c9cbc9;
+	height: 40px;
+	line-height: 40px;
+	background-color: #ECF0F1;
+	color: #444;
 	margin-top: 40px;
-	font-size: 18px;
+	padding: 10px 0;
+	font-size: 16px;
+	border-top: 1px solid #ddd;
+	text-align: right;
 
 	a {
-		color: #c9cbc9;
+		color: #444;
+
+		&:hover {
+			background-color: #000;
+			color: #fff;
+			text-decoration: none;
+		}
 	}
 }
+

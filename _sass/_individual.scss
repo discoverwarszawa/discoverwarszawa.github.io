@@ -27,6 +27,11 @@
 		margin: 0;
 		color: #fff;
 
+		a {
+			text-decoration: none;
+			color: #fff;
+		}
+
 		span {
 			font-weight: bold;
 		}
@@ -117,6 +122,9 @@ p {
 				width: 100%;
 				margin-right: 0;
 				height: 110px;
+  			}
+  			@media screen and (max-width: $small) {
+				height: 220px;
   			}
 	}
 
