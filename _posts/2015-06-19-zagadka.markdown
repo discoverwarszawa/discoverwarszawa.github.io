@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Zagadka Coffeebar"
+date:   2015-06-19 15:16:00
+categories: cafe
+location: "Wola"
+address: "ul. Elektoralna 24, Warsaw"
+telephone: "22 254 99 36"
+website: https://www.facebook.com/zagadka.caffee
+type: cafe
+headimage: /img/zagadka/reduced/zagadka-9.jpg
+thumbnail: /img/zagadka/reduced/zagadka-thumb.jpg
+images:
+- /img/zagadka/reduced/zagadka-3.jpg
+- /img/zagadka/reduced/zagadka-4.jpg
+- /img/zagadka/reduced/zagadka-6.jpg
+- /img/zagadka/reduced/zagadka-7.jpg
+- /img/zagadka/reduced/zagadka-8.jpg
+- /img/zagadka/reduced/zagadka.jpg
+head-background: "black-background"
+---
+
+Coming soon.
