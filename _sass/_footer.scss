@@ -8,7 +8,6 @@
 	margin-top: 40px;
 	padding: 10px 0;
 	font-size: 16px;
-	border-top: 1px solid #ddd;
 	text-align: right;
 
 	a {
@@ -19,6 +18,9 @@
 			color: #fff;
 			text-decoration: none;
 		}
+	}
+	.grid {
+		border-top: 1px solid rgba(0,0,0,.08);
 	}
 }
 
