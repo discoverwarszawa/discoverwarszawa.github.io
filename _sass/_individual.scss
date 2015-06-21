@@ -3,7 +3,7 @@
 	padding: 10px 0px;
 	margin: 0;
 	color: #fff;
-
+	font-weight: 300;
 		@media screen and (max-width: $small) {
 			display: block;
 			margin-bottom: 10px;
@@ -32,7 +32,7 @@
 		}
 
 		span {
-			font-weight: bold;
+			font-weight: 500;
 		}
 
 		li {

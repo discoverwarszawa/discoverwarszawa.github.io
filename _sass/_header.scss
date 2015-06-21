@@ -8,7 +8,7 @@
 	display: inline-block;
 	font-family: "effra",sans-serif;
 	font-size: 20px;
-	font-weight: 400;
+	font-weight: 300;
 	color: #fff;
 	line-height: 50px;
 	a {
@@ -69,15 +69,15 @@
 	.headline {
 		display: inline-block;
 		color: #fff;
-		padding: 10px;
+		padding: 15px;
 		margin: 50px 0 0 0;
 		background: rgba(0, 0, 0, .8);
-  		
+  		font-weight: 300;
   		@media screen and (max-width: $medium) {
-		font-size: 1.2em;
+		font-size: 1.5em;
   		}
   		@media screen and (max-width: $small) {
-		font-size: .8em;
+		font-size: 1em;
   		}
 
 	}
