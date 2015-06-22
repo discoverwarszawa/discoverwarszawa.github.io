@@ -16,7 +16,7 @@
 		color: #fff;
 		transition: all .7s;
 		&:hover {
-			color: #D4FF00;
+			text-decoration: underline;
 		}
 	}
 }
@@ -41,7 +41,7 @@
 		background-color: #333;
 		transition: all .7s;
 		&:hover {
-			background-color: #D4FF00;
+			background-color: #fff;
 			color: #333;
 		}
 	}
