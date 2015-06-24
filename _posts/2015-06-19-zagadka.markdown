@@ -10,6 +10,7 @@ website: https://www.facebook.com/zagadka.caffee
 type: cafe
 headimage: /img/zagadka/reduced/zagadka-9.jpg
 thumbnail: /img/zagadka/reduced/zagadka-thumb.jpg
+openingtimes: "Mon-Wed 8am to 10pm; Thu-Fri 8am-11pm; Sat 10am-11pm; Sun 10am-10pm"
 images:
 - /img/zagadka/reduced/zagadka-3.jpg
 - /img/zagadka/reduced/zagadka-4.jpg
@@ -20,4 +21,8 @@ images:
 head-background: "black-background"
 ---
 
-Coming soon.
+Zagagdka was one of the first places I enjoyed when I came to Warsaw. It's located on the edge of Wola, a short bike ride from the city center.
+
+There are two floors and a few seperate rooms available to sit for a quiet coffee. The main reason I come here though, is for the food. They serve great breakfast choices, and generally a good selection of smaller meals such as quesadillas.
+
+The staff are always very friendly, and all seem to speak good English.

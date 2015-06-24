@@ -6,10 +6,11 @@ categories: cafe
 location: "City Center"
 address: "ul. Krucza 23, Warsaw"
 telephone: "502 494 746"
-website: https://www.facebook.com/Krucza23/timeline
+website: https://www.facebook.com/Krucza23
 type: cafe
 headimage: /img/krucza/reduced/Krucza-5.jpg
 thumbnail: /img/krucza/reduced/Krucza-thumb.jpg
+openingtimes: "Mon-Fri 8am-9pm; Sat-Sun 10am-9pm"
 images:
 - /img/krucza/reduced/Krucza-1.jpg
 - /img/krucza/reduced/Krucza-2.jpg
