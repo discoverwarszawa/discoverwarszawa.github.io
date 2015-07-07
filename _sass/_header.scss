@@ -53,6 +53,10 @@
 			background-color: #fff;
 			color: #333;
 		}
+		@media screen and (max-width: $small) {
+		font-size: 10px;
+		overflow: hidden;
+  	}
 	}
 }
 
