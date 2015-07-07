@@ -30,12 +30,14 @@
 
 .main-navigation {
 	float: right;
+	height: 50px;
 }
 
 .main-navigation ul {
 	@include navigation-list;
 	font-family: "effra",sans-serif;
 	font-weight: 300;
+	height: 50px;
 	li {
 		line-height: 50px;
 	}
