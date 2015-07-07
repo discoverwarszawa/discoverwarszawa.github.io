@@ -86,8 +86,11 @@
 		margin: 50px 0 0 0;
 		background: rgba(0, 0, 0, .8);
   		font-weight: 300;
+  		font-size: 1.6em;
+  		letter-spacing: 1px;
+  		text-transform: uppercase;
   		@media screen and (max-width: $medium) {
-		font-size: 1.5em;
+		font-size: 1.3em;
   		}
   		@media screen and (max-width: $small) {
 		font-size: 1em;
