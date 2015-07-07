@@ -46,16 +46,16 @@
 		color: #fff;
 		background-color: #333;
 		transition: all .7s;
-		font-size: 14px;
+		font-size: 12px;
 		text-transform: uppercase;
 		letter-spacing: 1px;
+		overflow: hidden;
 		&:hover {
 			background-color: #fff;
 			color: #333;
 		}
 		@media screen and (max-width: $small) {
 		font-size: 10px;
-		overflow: hidden;
   	}
 	}
 }
