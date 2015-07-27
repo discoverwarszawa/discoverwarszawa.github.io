@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Czytelnia"
+title:  "Czytelnia (coming soon)"
 date:   2015-07-27 15:16:00
 categories: cafe
 location: "Stare Bielany"
@@ -15,4 +15,4 @@ images:
 head-background: "black-background"
 ---
 
-Coming soon.
+Info coming soon.
