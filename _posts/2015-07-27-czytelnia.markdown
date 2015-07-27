@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Czytelnia"
+date:   2015-07-27 15:16:00
+categories: cafe
+location: "Stare Bielany"
+address: "Aleja Zjednoczenia 46, Warsaw"
+telephone: "22 254 99 36"
+website: https://www.facebook.com/cafeczytelnia
+type: cafe
+headimage: /img/czytelnia/czytelnia-1.jpg
+thumbnail: /img/czytelnia/czytelnia-1.jpg
+openingtimes: "Mon–Sun: 9am–8pm"
+images:
+head-background: "black-background"
+---
+
+Coming soon.
