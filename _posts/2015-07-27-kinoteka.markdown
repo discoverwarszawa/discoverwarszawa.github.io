@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Kinoteka"
+date:   2015-07-27 15:16:00
+categories: cinema
+location: "City Center"
+address: "Plac Defilad 1, 00-901 Warszawa"
+telephone: "22 551 70 70"
+website: http://www.kinoteka.pl/start
+type: cinema
+headimage: /img/kinoteka/kinoteka-1.jpg
+thumbnail: /img/kinoteka/kinoteka-1.jpg
+openingtimes: "check website"
+images:
+head-background: "black-background"
+---
+
+Coming soon.
