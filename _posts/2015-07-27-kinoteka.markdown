@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kinoteka (coming soon)"
+title:  "Kinoteka"
 date:   2015-07-27 15:16:00
 categories: cinema
 location: "City Center"
@@ -15,4 +15,6 @@ images:
 head-background: "black-background"
 ---
 
-Info coming soon.
+Kinoteka is based at the bottom of the Palace of Culture and Science (a "gift" from the Soviet Union to the people of Poland). The cinema has incredible interior, like stepping into the cinemas of the past.
+
+The entrance can be found on the south side of the building with steps leading directly up to Kinoteka.
