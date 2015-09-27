@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Sloik"
+date:   2015-09-27 15:16:00
+categories: restaurant
+location: "City Center"
+address: "Ul. Ogrodowa 31/35, Warszawa"
+telephone: "22 401 17 54"
+website: http://www.restauracjasloik.pl/
+type: cutlery
+headimage: /img/sloik/sloik_1.jpg
+thumbnail: /img/sloik/sloik_1.jpg
+openingtimes: "check website"
+images:
+head-background: "black-background"
+---
+
+Info coming soon.
